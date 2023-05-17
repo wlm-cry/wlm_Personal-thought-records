@@ -1,4 +1,4 @@
 # wlm_Personal-library
-There's nothing to say!  
+There's nothing to say.
 
 Author: wlm
